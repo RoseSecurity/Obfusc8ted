@@ -38,6 +38,9 @@ Author(s):
 ```
 Kleptocratic and RoseSecurity
 ```
+## Walkthrough:
+
+The password for Walkthrough.zip is the final flag, but if you could not discover the answer, stay posted on https://medium.com/@RoseSecurity for the official write-up!
 
 ## Happy Hunting!
 
