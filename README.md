@@ -21,7 +21,11 @@ unzip Obfusc8ted.zip
 
 Learn new techniques to parse obfuscated network traffic in an attempt to identify malicious threat actors' intentions.
 
-Difficulty: Easy
+Difficulty: 
+
+```
+Easy
+```
 
 Flag Format:
 
@@ -29,6 +33,10 @@ Flag Format:
 HTB{s0me_fl4g_her3}
 ```
 
-Author(s): Kleptocratic and RoseSecurity
+Author(s): 
+
+```
+Kleptocratic and RoseSecurity
+```
 
 
