@@ -39,4 +39,7 @@ Author(s):
 Kleptocratic and RoseSecurity
 ```
 
+## Happy Hunting!
+
+![content-blog-cybersecurity-threat-hunting-risk-19003-001n](https://user-images.githubusercontent.com/72598486/143734115-394cb6a1-37c6-4f65-82e4-b57a31fb6ad3.jpg)
 
