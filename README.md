@@ -40,7 +40,7 @@ Kleptocratic and RoseSecurity
 ```
 ## Walkthrough:
 
-The password for Walkthrough.zip is the final flag, but if you could not discover the answer, stay posted on https://medium.com/@RoseSecurity for the official write-up!
+The password for Walkthrough.zip is the final flag, but if you could not discover the answer, check out https://medium.com/@RoseSecurity/obfusc8ted-walkthrough-making-sense-of-malware-infested-network-traffic-8b61c2c60c4e!
 
 ## Happy Hunting!
 
